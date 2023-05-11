@@ -1,0 +1,25 @@
+{
+    "products":[
+        {
+            "name":"Laffy Taffy",
+            "price":17,
+            " discountPercentage":"15%",
+            "imageURL":"https://m.media-amazon.com/images/I/81-K31uNEWL.jpg",
+            "unitsInStock":20
+        },
+        {
+            "name":"Krispy Kreme",
+            "price":5,
+            " discountPercentage":"2%",
+            "imageURL":"https://www.bakemag.com/ext/resources/images/2020/12/KrispyKreme_GlazedDozen.jpg?height=700&t=1609258989&width=700",
+            "unitsInStock":50
+        },
+        {
+            "name":"M&MS",
+            "price":10,
+            " discountPercentage":"8%",
+            "imageURL":"https://www.qcnews.com/wp-content/uploads/sites/109/2023/01/MMsAP22021645371457.jpg?w=1280",
+            "unitsInStock":5
+        }
+    ]
+}
